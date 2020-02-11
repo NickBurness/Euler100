@@ -5,9 +5,9 @@ Project Euler 100 challenge, in C#.
 
 ### What is Project Euler?  
 
-Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.  
+Project Euler is a series of challenging mathematical/computer programming problems that require more than just mathematical skills to solve. Although mathes helps to arrive at elegant and often efficient methods, the use of a computer and programming skills will be required to solve most problems.  
 
-The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.  
+The motivation for starting Project Euler, and its continuation, is to provide a platform for inquiring minds to delve into unfamiliar areas and learn new concepts in a fun and recreational context.  
 
 ### Who are the problems aimed at?  
 
@@ -17,3 +17,8 @@ The intended audience include students for whom the basic curriculum is not feed
 
 The problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.  
 
+### Who am I? 
+
+I'm [Nick](https://www.twitter.com/@cleanCodeNick). I'll be completing each of these challenges using C#. I claim to be no expert in either computer programming or maths. Infact a case could be made that, at the moment of writing this, rubbish at both. I intend on working through this at a steady pace. Below I will list each completed challenge, it's code & a detail marking my completion date.  
+
+>###### 1 - Multiples of & 5  
