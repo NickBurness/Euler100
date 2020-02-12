@@ -1,7 +1,13 @@
+
+
 # Euler:100: 
 :heavy_division_sign: :heavy_multiplication_x: :heavy_plus_sign: :heavy_minus_sign: :computer:  
   
 Project Euler 100 challenge, in C#.
+
+### Who am I? 
+
+I'm [Nick](https://www.twitter.com/@cleanCodeNick). I'll be completing each of these challenges using C#. I claim to be no expert in either computer programming or maths. Infact a case could be made that, at the moment of writing this, rubbish at both. I intend on working through this at a steady pace. Below I will list each completed challenge, it's code & a detail marking my completion date. 
 
 ### What is Project Euler?  
 
@@ -16,9 +22,5 @@ The intended audience include students for whom the basic curriculum is not feed
 ### Can anyone solve the problems?  
 
 The problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.  
-
-### Who am I? 
-
-I'm [Nick](https://www.twitter.com/@cleanCodeNick). I'll be completing each of these challenges using C#. I claim to be no expert in either computer programming or maths. Infact a case could be made that, at the moment of writing this, rubbish at both. I intend on working through this at a steady pace. Below I will list each completed challenge, it's code & a detail marking my completion date.  
 
 >###### 1 - Multiples of & 5  
