@@ -1,0 +1,8 @@
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100\bin\Debug\netcoreapp3.1\Euler100.deps.json
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100\bin\Debug\netcoreapp3.1\Euler100.dll
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100\bin\Debug\netcoreapp3.1\Euler100.pdb
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100\obj\Debug\netcoreapp3.1\Euler100.AssemblyInfoInputs.cache
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100\obj\Debug\netcoreapp3.1\Euler100.AssemblyInfo.cs
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100\obj\Debug\netcoreapp3.1\Euler100.dll
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100\obj\Debug\netcoreapp3.1\Euler100.pdb
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100\obj\Debug\netcoreapp3.1\Euler100.csprojAssemblyReference.cache
