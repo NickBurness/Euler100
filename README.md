@@ -28,4 +28,4 @@ The problems range in difficulty and for many the experience is inductive chain 
 * *Euler100.Tests* will hold a test using the MSTest framework.  
 * *Euler100Console* simply runs the class library methods using the program.cs file in the Console.   
 
->###### 1 - [_**Multiples of 3 & 5**_](https://github.com/NickBurness/ProjectEuler100/blob/master/Euler100/MultiplesOf3And5.cs) :heavy_check_mark:
+>###### 1 - [_**Multiples of 3 & 5**_](https://github.com/NickBurness/ProjectEuler100/blob/master/Euler100/MultiplesOf3And5.cs) :heavy_check_mark: [_**Test**_](https://github.com/NickBurness/ProjectEuler100/blob/master/Euler100.Tests/MultiplesOf3And5Test.cs) :warning:
