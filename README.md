@@ -1,7 +1,7 @@
 
 
-# Euler:100: 
-:heavy_division_sign: :heavy_multiplication_x: :heavy_plus_sign: :heavy_minus_sign: :computer:  
+# ProjectEuler:100: 
+<p align="center"> :heavy_division_sign: :heavy_multiplication_x: :heavy_plus_sign: :heavy_minus_sign: :computer:  
   
 Project Euler 100 challenge, in C#.
 
