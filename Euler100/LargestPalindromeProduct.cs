@@ -32,7 +32,6 @@ namespace Euler100Classes
                 }
             }
             return n;
-
         }
     }
 }
