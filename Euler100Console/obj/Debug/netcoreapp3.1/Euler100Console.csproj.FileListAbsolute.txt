@@ -12,3 +12,17 @@ C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\
 C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100Console\obj\Debug\netcoreapp3.1\Euler100Console.csprojAssemblyReference.cache
 C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100Console\bin\Debug\netcoreapp3.1\Euler100Classes.dll
 C:\Users\NBURNESS\OneDrive - Department for Education\Documents\ProjectEuler100\Euler100Console\bin\Debug\netcoreapp3.1\Euler100Classes.pdb
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\bin\Debug\netcoreapp3.1\Euler100Console.exe
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\bin\Debug\netcoreapp3.1\Euler100Console.deps.json
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\bin\Debug\netcoreapp3.1\Euler100Console.runtimeconfig.json
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\bin\Debug\netcoreapp3.1\Euler100Console.runtimeconfig.dev.json
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\bin\Debug\netcoreapp3.1\Euler100Console.dll
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\bin\Debug\netcoreapp3.1\Euler100Console.pdb
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\bin\Debug\netcoreapp3.1\Euler100Classes.dll
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\bin\Debug\netcoreapp3.1\Euler100Classes.pdb
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\obj\Debug\netcoreapp3.1\Euler100Console.csprojAssemblyReference.cache
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\obj\Debug\netcoreapp3.1\Euler100Console.AssemblyInfoInputs.cache
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\obj\Debug\netcoreapp3.1\Euler100Console.AssemblyInfo.cs
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\obj\Debug\netcoreapp3.1\Euler100Console.csproj.CopyComplete
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\obj\Debug\netcoreapp3.1\Euler100Console.dll
+C:\Users\NBURNESS\OneDrive - Department for Education\Documents\Euler100\ProjectEuler100\Euler100Console\obj\Debug\netcoreapp3.1\Euler100Console.pdb

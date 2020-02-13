@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100.Tests\\Euler100.Tests.csproj": {}
+    "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100.Tests\\Euler100.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100.Tests\\Euler100.Tests.csproj": {
+    "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100.Tests\\Euler100.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100.Tests\\Euler100.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100.Tests\\Euler100.Tests.csproj",
         "projectName": "Euler100.Tests",
-        "projectPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100.Tests\\Euler100.Tests.csproj",
+        "projectPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100.Tests\\Euler100.Tests.csproj",
         "packagesPath": "C:\\Users\\NBURNESS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100.Tests\\obj\\",
+        "outputPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NBURNESS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100\\Euler100Classes.csproj": {
-                "projectPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100\\Euler100Classes.csproj"
+              "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100\\Euler100Classes.csproj": {
+                "projectPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100\\Euler100Classes.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100\\Euler100Classes.csproj": {
+    "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100\\Euler100Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100\\Euler100Classes.csproj",
+        "projectUniqueName": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100\\Euler100Classes.csproj",
         "projectName": "Euler100Classes",
-        "projectPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100\\Euler100Classes.csproj",
+        "projectPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100\\Euler100Classes.csproj",
         "packagesPath": "C:\\Users\\NBURNESS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100\\obj\\",
+        "outputPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NBURNESS\\AppData\\Roaming\\NuGet\\NuGet.Config",
