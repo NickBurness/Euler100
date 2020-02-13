@@ -24,9 +24,14 @@ namespace Euler100Console
             //Console.WriteLine($"The largest prime factor of the 600851475143 is {result2}");
 
             // Challenge 4
-            var test3 = new LargestPalindromeProduct();
-            var result3 = test3.Challenge4();
-            Console.WriteLine($"The largest palindrome made from the product of two 3-digit numbers is {result3}");
+            // var test3 = new LargestPalindromeProduct();
+            // var result3 = test3.Challenge4();
+            // Console.WriteLine($"The largest palindrome made from the product of two 3-digit numbers is {result3}");
+
+            // Challenge 5
+            // var test4 = new SmallestMultiple();
+            // var result4 = test4.Challenge5();
+            // Console.WriteLine($"The smallest number that can be evenly divided by all numbers from 1 upto 20 is {result4}");
 		}
     }
 }
