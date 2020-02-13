@@ -12,7 +12,7 @@ namespace Euler100Classes
 				if (i % 3 == 0 || i % 5 == 0)
 				{
 					total = i + total;
-					Console.WriteLine($"This total is {total}"); // 233168
+					Console.WriteLine($"The total so far is {total}"); // 233168 should be the final value
 				}
 			}
 			return total;

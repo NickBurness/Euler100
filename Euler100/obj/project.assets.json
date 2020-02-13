@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100\\Euler100Classes.csproj",
+      "projectUniqueName": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100\\Euler100Classes.csproj",
       "projectName": "Euler100Classes",
-      "projectPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100\\Euler100Classes.csproj",
+      "projectPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100\\Euler100Classes.csproj",
       "packagesPath": "C:\\Users\\NBURNESS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\ProjectEuler100\\Euler100\\obj\\",
+      "outputPath": "C:\\Users\\NBURNESS\\OneDrive - Department for Education\\Documents\\Euler100\\ProjectEuler100\\Euler100\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NBURNESS\\AppData\\Roaming\\NuGet\\NuGet.Config",
