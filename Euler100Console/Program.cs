@@ -34,9 +34,9 @@ namespace Euler100Console
             // Console.WriteLine($"The smallest number that can be evenly divided by all numbers from 1 upto 20 is {result4}");
 
             // Challenge 6
-            var test5 = new SumSquareDifference();
-            var result5 = test5.Challenge6();
-            Console.WriteLine($"The difference between the sum of the squares for the first 100 numbers and their squared value is {result5}");
+            // var test5 = new SumSquareDifference();
+            // var result5 = test5.Challenge6();
+            // Console.WriteLine($"The difference between the sum of the squares for the first 100 numbers and their squared value is {result5}");
 		}
     }
 }
