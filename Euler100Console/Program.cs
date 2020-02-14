@@ -7,7 +7,7 @@ namespace Euler100Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Program Running");
+            // Console.WriteLine("Program Running");
             // Challenge 1 
             // var test = new MultiplesOf3And5();
             // var result = test.Challenge1();
@@ -32,6 +32,11 @@ namespace Euler100Console
             // var test4 = new SmallestMultiple();
             // var result4 = test4.Challenge5();
             // Console.WriteLine($"The smallest number that can be evenly divided by all numbers from 1 upto 20 is {result4}");
+
+            // Challenge 6
+            var test5 = new SumSquareDifference();
+            var result5 = test5.Challenge6();
+            Console.WriteLine($"The difference between the sum of the squares for the first 100 numbers and their squared value is {result5}");
 		}
     }
 }
