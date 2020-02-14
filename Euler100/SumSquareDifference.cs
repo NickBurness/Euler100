@@ -8,7 +8,7 @@ namespace Euler100Classes
     {
         public int Challenge6()
         {
-            int maxNaturalNumber = 100;
+            const int maxNaturalNumber = 100;
             int sumOfNumbers = 0;
             int sumSquared = 0;
 
