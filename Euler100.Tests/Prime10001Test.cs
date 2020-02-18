@@ -17,11 +17,11 @@ namespace Euler100.Tests
         }
 
         [TestMethod]
-        public void PrimeNumberTenThousandAndOneIs_104759()
+        public void PrimeNumberTenThousandAndOneIs_104743()
         {
             var result = _prime10001.Challenge7();
 
-            Assert.AreEqual(104759, result);
+            Assert.AreEqual(104743, result);
         }
     }
 }

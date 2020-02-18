@@ -19,11 +19,11 @@ namespace Euler100Classes
                 {
                     counter++;
                 }
-                if (counter == 10001)
+                if (counter == 10000)
                 {
                     break;
                 }
-                num++;
+                num += 2;
             }
             return num;
         }
