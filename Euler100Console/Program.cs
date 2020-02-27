@@ -38,9 +38,17 @@ namespace Euler100Console
             // var result5 = test5.Challenge6();
             // Console.WriteLine($"The difference between the sum of the squares for the first 100 numbers and their squared value is {result5}");
 
-            var test6 = new Prime10001();
-            int result6 = test6.Challenge7();
-            Console.WriteLine($"The 10001st prime number is {result6}");
+            // Challenge 7
+            // var test6 = new Prime10001();
+            // int result6 = test6.Challenge7();
+            // Console.WriteLine($"The 10001st prime number is {result6}");
+
+            // Challenge 8
+            var test7 = new LargestProductInASeries();
+            long result7 = test7.Challenge8();
+            Console.WriteLine($"The Product of the largest 13 adjacent numbers in the 1000-digit number provided in the challenge is {result7}");
+
+
 		}
     }
 }
