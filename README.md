@@ -7,7 +7,9 @@
 
 ### Who am I? 
 
-I'm [Nick](https://www.twitter.com/@cleanCodeNick). I'll be completing each of these challenges using C#. I claim to be no expert in either computer programming or maths. Infact a case could be made that, at the moment of writing this, rubbish at both. I intend on working through this at a steady pace. Below I will list each completed challenge, it's code & a detail marking my completion date. 
+I'm [Nick](https://www.twitter.com/@cleanCodeNick). I'll be completing each of these challenges using C#. I claim to be no expert in either computer programming or maths. Infact a case could be made that, at the moment of writing this, i'm really pretty bad at both. I intend on working through this series of challenges at a nice, steady pace.  
+
+Below I will list each completed challenge, it's code & a detail marking my completion date. 
 
 ### What is Project Euler?  
 
@@ -25,7 +27,7 @@ The problems range in difficulty and for many the experience is inductive chain 
 
 ### How is this repo laid out?  
 * *Euler100* is a class library, containing .cs files that hold the methods to each of the challenges.      
-* *Euler100.Tests* will hold a test using the MSTest framework.  
+* *Euler100.Tests* will hold a test, asserting that the program produces the expected result, using the MSTest framework.  
 * *Euler100Console* simply runs the class library methods using the program.cs file in the Console.   
 
 >###### 1 - [_**Multiples of 3 & 5**_](https://github.com/NickBurness/ProjectEuler100/blob/master/Euler100/MultiplesOf3And5.cs) :heavy_check_mark: [_**Test**_](https://github.com/NickBurness/ProjectEuler100/blob/master/Euler100.Tests/MultiplesOf3And5Test.cs) :warning: 12/02/2020
