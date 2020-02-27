@@ -1,0 +1,14 @@
+One problem I found while working through this series of challenges is that the actual answers arent 
+forthcoming. More often than not, I wanted to code the solution myself but check the result was infact correct. When searching for the ACTUAL answer to the maths problem. I would come accross 101 different code snippets that did not contain the actual problem to the question I was facing.
+
+This file will contain the answers to all of the problems I have completed and those I am working on currently.
+
+Problem 1 
+Problem 2
+Problem 3
+Problem 4
+Problem 5
+Problem 6
+Problem 7 
+Problem 8
+Problem 9
