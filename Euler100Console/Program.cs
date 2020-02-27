@@ -44,11 +44,13 @@ namespace Euler100Console
             // Console.WriteLine($"The 10001st prime number is {result6}");
 
             // Challenge 8
-            var test7 = new LargestProductInASeries();
-            long result7 = test7.Challenge8();
-            Console.WriteLine($"The Product of the largest 13 adjacent numbers in the 1000-digit number provided in the challenge is {result7}");
+            // var test7 = new LargestProductInASeries();
+            // long result7 = test7.Challenge8();
+            // Console.WriteLine($"The Product of the largest 13 adjacent numbers in the 1000-digit number provided in the challenge is {result7}");
 
-
+            //Challenge 9
+            var test8 = new SpecialPythagoreanTriplet();
+            test8.Challenge9();
 		}
     }
 }
